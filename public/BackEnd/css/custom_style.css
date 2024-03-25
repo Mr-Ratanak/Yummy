@@ -1,0 +1,25 @@
+code{
+    font-size: 20pt;
+}
+
+.profile_fea [type="file"]{
+    width: 100px;
+    height: 100px;
+    padding: 1px;
+    border-radius: 3px;
+    box-shadow: 0px 2px 2px gray;
+    
+}
+#img{
+    width: 100px;
+    border-radius: 3px;
+    cursor: pointer;
+}
+
+#image_tb{
+    padding: 2px;
+    border-top-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    object-fit: cover;
+    
+}
